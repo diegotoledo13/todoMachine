@@ -1,4 +1,6 @@
 body {
+  display: grid;
+  justify-content: center;
   margin: 0;
   padding: 0;
   background: #F2F4F5;
